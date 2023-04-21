@@ -1,0 +1,15 @@
+﻿<Window x:Name="GadgetWindow" x:Class="gadgets.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gadgets"
+        mc:Ignorable="d"
+        Title="Gadget" Height="58" Width="637" Foreground="Black" Background="#84000000" WindowStyle="None" AllowsTransparency="True"
+        SizeToContent="Height"
+        MouseMove="Window_MouseMove"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        Topmost="True">
+    <TextBlock x:Name="GadgetText" TextWrapping="Wrap" Text="TextBlock" Foreground="White" FontFamily="Microsoft JhengHei" FontSize="16" VerticalAlignment="Top" HorizontalAlignment="Left" Width="69420"/>
+</Window>
