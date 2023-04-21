@@ -1,0 +1,15 @@
+{
+  'Comment': 'never gonna give u up',
+  'Id': 0,
+  'Text': 'test {Debug00}, {Debug01}, {Debug10}, {Debug11}, {Debug20}, {Debug21}, {Debug30}, {Debug31}
+many
+lines
+test but using real slash n :D',
+  'Color': '#FF00FF00',
+  'Font': 'Courier New',
+  'Size': 30,
+  'DragAcceleration': 0.9,
+  'Bounciness': 0.75,
+  'DefaultPosX': 700,
+  'DefaultPosY': 300
+}
